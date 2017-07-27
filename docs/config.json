@@ -4,7 +4,6 @@
     "author": "Joshua Davis",
     "timezone": "America/New_York",
     "format": "html",
-    "themes_directory": "/home/travis/.config/layouts/themes",
     "html": {
         "theme": "azure-white",
         "float": false,
