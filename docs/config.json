@@ -1,0 +1,19 @@
+{
+    "title": "Azure AD Connect",
+    "tagline": "Azure Workshops",
+    "author": "Joshua Davis",
+    "timezone": "America/New_York",
+    "format": "html",
+    "html": {
+        "theme": "azure-white",
+        "theme_path": "~/.config/layouts",
+        "float": false,
+        "search": false,
+        "toggle_code": false,
+        "breadcrumbs": true,
+        "date_modified": true,
+        "twitter": [
+            "a11smiles"
+        ]
+    }
+}
