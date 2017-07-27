@@ -6,7 +6,7 @@
     "format": "html",
     "html": {
         "theme": "azure-white",
-        "theme_path": "/home/travis/.config/layouts/azure",
+        "theme_path": "/home/travis/.config/layouts/themes",
         "float": false,
         "search": false,
         "toggle_code": false,
