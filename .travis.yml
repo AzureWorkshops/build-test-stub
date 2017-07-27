@@ -12,7 +12,7 @@ before_script:
   - composer global require justinwalsh/daux.io
 script: 
   - cd $TRAVIS_BUILD_DIR
-  - cp -R ~/.config/layouts/themes .
+  - cp -R ~/.config/layouts/themes ./themes/
   - ls
   - ~/.config/composer/vendor/bin/daux
   - git add static && git commit -m "documentation check-in ${TRAVIS_COMMIT}"
