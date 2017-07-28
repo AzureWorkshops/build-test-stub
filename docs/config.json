@@ -4,6 +4,7 @@
     "author": "Joshua Davis",
     "timezone": "America/New_York",
     "format": "html",
+    "processor": "Processor",
     "html": {
         "theme": "azure-white",
         "float": false,

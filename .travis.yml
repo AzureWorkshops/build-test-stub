@@ -13,6 +13,7 @@ before_script:
 script: 
   - cd $TRAVIS_BUILD_DIR
   - cp -R ~/.config/layouts/themes ./themes/
+  - cp -R ~/.config/layouts/daux ./daux/
   - ~/.config/composer/vendor/bin/daux
   - git add static && git commit -m "documentation check-in ${TRAVIS_COMMIT}"
   - git ls-remote --heads origin gh-pages | grep gh-pages >/dev/null; if [ "$?" == "0" ]; then git push origin :gh-pages &> /dev/null; fi
