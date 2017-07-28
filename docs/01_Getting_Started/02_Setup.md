@@ -17,6 +17,8 @@ For best results, it is recommended that you setup register for the trial subscr
 ## Creating the Lab Environment
 ><h4>Recommendation</h4>The automated building of the lab environment can take approximately 30 minutes to complete.  It is best to begin this process while you are reviewing the workshop material.
 
+>>This is a test
+
 ### Verify Installation of the CLI
 From a prompt, enter the following command:
 ```bash
