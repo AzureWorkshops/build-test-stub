@@ -11,7 +11,7 @@ Running this command will take a few seconds to complete.  But, doing so will do
 
 ## Azure Subscription
 As stated in the requirements section, the workshop requires an active Azure subscription.
-><h4>Recommendation</h4>It is recommended that you do not use an Azure subscription that is currently being used for production.  The CLI will create it's own resource groups, but it is not the best practice to utilize production environments for testing and workshops, such as this.
+!!<h4>Recommendation</h4>It is recommended that you do not use an Azure subscription that is currently being used for production.  The CLI will create it's own resource groups, but it is not the best practice to utilize production environments for testing and workshops, such as this.
 
 For best results, it is recommended that you setup register for the trial subscription as outlined on the [previous](./01_Office_365_and_Azure_Registration.md) page.
 
