@@ -4,6 +4,7 @@ Once you have the requisites installed, you will then need to install the CLI.  
 First, open a command-line window or terminal prompt. Then, type the following command:
 
 ```bash
+#install azworkshops CLI globally
 npm install azworkshops-cli -g
 ```
 Running this command will take a few seconds to complete.  But, doing so will download the Azure Workshops CLI, along with its dependencies, into a directory that is located in a globally accessible path.
@@ -22,6 +23,7 @@ For best results, it is recommended that you setup register for the trial subscr
 ### Verify Installation of the CLI
 From a prompt, enter the following command:
 ```bash
+#get version
 azworkshops --version
 ```
 
