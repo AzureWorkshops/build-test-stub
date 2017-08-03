@@ -15,7 +15,7 @@ script:
   - cd $TRAVIS_BUILD_DIR
   - cp -R ~/.config/layouts/themes ./themes/
   - cp -R ~/.config/layouts/daux ./daux/
-  - cp -R ~/.config/layouts/node $TRAVIS_BUILD_DIR
+  - cp -R ~/.config/layouts/node/* .
   - npm install
   - ~/.config/composer/vendor/bin/daux
   - node index.js
